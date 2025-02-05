@@ -9,6 +9,19 @@ These notebooks accompany a [video playlist](https://youtube.com/playlist?list=P
 
 # How to start 
 
-You should prepare a OpenAI key(payment as you wish) to set up:
+### OpenAI API key
+
+You should prepare a [OpenAI API key](https://platform.openai.com/docs/api-reference/chat/object)(payment as you wish) to set up:
+
+
 `os.environ['OPENAI_API_KEY'] = <your-api-key>`
+
+### Langchain API key
+
+You should prepare a [Langchain API key](https://smith.langchain.com/) to set up:
+
+`os.environ['LANGCHAIN_API_KEY'] = 'xxxxxxx'`
+
+
+
 
